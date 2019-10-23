@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/gdamore/tcell"
-	"github.com/rivo/tview"
+	"github.com/cespedes/tview"
 )
 
 const textView1 = `[green]func[white] [yellow]main[white]() {

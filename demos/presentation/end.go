@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/gdamore/tcell"
-	"github.com/rivo/tview"
+	"github.com/cespedes/tview"
 )
 
 // End shows the final slide.

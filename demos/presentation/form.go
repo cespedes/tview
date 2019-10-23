@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/rivo/tview"
+	"github.com/cespedes/tview"
 )
 
 const form = `[green]package[white] main
